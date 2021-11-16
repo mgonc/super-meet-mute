@@ -14,3 +14,4 @@
 ## Configuration
 
 Open **chrome://extensions/shortcuts** from the Google Chrome application, and define a shortcut to mute/unmute/toggle the microphone.
+@mgonc
